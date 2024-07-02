@@ -1,0 +1,41 @@
+{
+  "storeHouse": [
+ 
+    {
+      "sourceName": "TxTv",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/cang.json"
+    },
+    {
+      "sourceName": "元老库",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/元老库.txt"
+    },
+    {
+      "sourceName": "精品库",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/精品库.txt"
+    },
+    {
+      "sourceName": "讴歌多仓",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/讴歌多仓.txt"
+    },
+    {
+      "sourceName": "七星多仓",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/七星多仓.txt"
+    },
+    {
+      "sourceName": "心动仓库",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/心动仓库.txt"
+    },
+    {
+      "sourceName": "宝盒多仓",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/宝盒多仓.txt"
+    },
+    {
+      "sourceName": "云星多仓",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/云星多仓.txt"
+    },
+    {
+      "sourceName": "多多多仓",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/多多多仓.txt"
+    }   
+  ]
+}
